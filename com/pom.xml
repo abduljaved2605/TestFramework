@@ -3,6 +3,11 @@
   <groupId>com</groupId>
   <artifactId>com</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
   
   <!-- https://mvnrepository.com/artifact/org.springframework/spring-context-support -->
      <dependencies>
